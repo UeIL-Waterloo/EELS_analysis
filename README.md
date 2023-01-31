@@ -15,9 +15,15 @@ measurement in the TEM. <i> J. Electron Microsc. Tech. </i> 8, 193–200 (1988).
 This script was developed with the following packages:
 
 Python 3.9.7
+
 hyperspy 1.6.5
+
 tk 8.6.11
+
 numpy 1.20.3
+
 matplotlib 3.4.3
+
 scipy 1.8.0
+
 lmfit 1.0.3
