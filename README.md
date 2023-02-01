@@ -12,7 +12,7 @@ US, 2011). [doi:10.1007/978-1-4419-9583-4](https://doi:10.1007/978-1-4419-9583-4
 Malis, T., Cheng, S. C. & Egerton, R. F. EELS log-ratio technique for specimen-thickness
 measurement in the TEM. <i> J. Electron Microsc. Tech. </i> 8, 193–200 (1988). [doi:10.1002/jemt.1060080206](https://doi.org/10.1002/jemt.1060080206)
 
-<b> This script was developed with the following packages: </b>
+<b> This script was developed in the following environment: </b>
 
 Python 3.9.7
 
